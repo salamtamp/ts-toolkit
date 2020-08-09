@@ -1,5 +1,5 @@
 {
-  "name": "ts-toolkit",
+  "name": "@salamtam/ts-toolkit",
   "version": "1.0.0",
   "description": "Start with something good.",
   "main": "dist/index.js",
